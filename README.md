@@ -1,4 +1,4 @@
-# C-DSA-
+# C++-DSA-
 C++ for Data Structures
 This repository serves as a comprehensive guide to mastering Data Structures in C++. It's designed for students and developers who want to build a strong foundation in data structures and algorithms using C++. The content covers both fundamental and advanced topics, with examples and code implementations to facilitate better understanding and hands-on practice.
 
